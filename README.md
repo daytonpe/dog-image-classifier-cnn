@@ -1,5 +1,5 @@
 Expected Results:
-
+`
 ***RESULTS FOR  VGG  ARCHITECTURE CNN***
 
                  Images:  40
@@ -20,13 +20,8 @@ Real: great pyrenees        Classifier: kuvasz
 
 
 Total Elapsed Runtime: 0:0:27
-
-
-
-
-
-
-
+`
+`
 ***RESULTS FOR  RESNET  ARCHITECTURE CNN***
 
                  Images:  40
@@ -50,9 +45,8 @@ Real: great pyrenees        Classifier: kuvasz
 cat_01.jpg
 
 Total Elapsed Runtime: 0:0:6
-
-
-
+`
+`
 ***RESULTS FOR  ALEXNET  ARCHITECTURE CNN***
 
                  Images:  40
@@ -75,5 +69,5 @@ Real: golden retriever      Classifier: afghan hound, afghan
 
 *** INCORRECT DOG ASSIGNMENT***
 
-
 Total Elapsed Runtime: 0:0:2
+`
